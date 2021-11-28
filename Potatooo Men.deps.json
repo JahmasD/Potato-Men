@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Potatooo Men/1.0.0": {
+        "runtime": {
+          "Potatooo Men.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Potatooo Men/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
